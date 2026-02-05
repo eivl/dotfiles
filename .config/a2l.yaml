@@ -1,0 +1,7 @@
+apps: {}
+k8s_objects: /home/eivl/dev/k8s-objects/
+user_email: eivind.teig@amedia.no
+feature_mise: false
+k8s_contexts_ignore:
+- gke_*
+- minikube

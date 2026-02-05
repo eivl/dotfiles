@@ -1,0 +1,5 @@
+2025/11/01-16:36:47.149 845 Creating DB /home/eivl/.config/chromium/Default/IndexedDB/http_homeassistant.local_8123.indexeddb.leveldb since it was missing.
+2025/11/01-16:36:47.177 845 Reusing MANIFEST /home/eivl/.config/chromium/Default/IndexedDB/http_homeassistant.local_8123.indexeddb.leveldb/MANIFEST-000001
+2025/11/01-16:37:32.548 848 Level-0 table #5: started
+2025/11/01-16:37:32.599 848 Level-0 table #5: 1682104 bytes OK
+2025/11/01-16:37:32.617 848 Delete type=0 #3

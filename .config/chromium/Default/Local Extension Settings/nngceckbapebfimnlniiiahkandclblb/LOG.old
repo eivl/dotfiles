@@ -1,0 +1,12 @@
+2026/01/24-22:04:46.158 833 Reusing MANIFEST /home/eivl/.config/chromium/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/MANIFEST-000001
+2026/01/24-22:04:46.158 833 Recovering log #4
+2026/01/24-22:04:46.170 833 Reusing old log /home/eivl/.config/chromium/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/000004.log 
+2026/01/24-22:36:46.326 833 Level-0 table #8: started
+2026/01/24-22:36:46.354 833 Level-0 table #8: 3389542 bytes OK
+2026/01/24-22:36:46.367 833 Delete type=0 #4
+2026/01/24-22:49:12.720 833 Compacting 1@1 + 1@2 files
+2026/01/24-22:49:12.761 833 Generated table #9@1: 52 keys, 769953 bytes
+2026/01/24-22:49:12.762 833 Compacted 1@1 + 1@2 files => 769953 bytes
+2026/01/24-22:49:12.774 833 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/24-22:49:12.775 833 Delete type=2 #5
+2026/01/24-22:49:12.775 833 Delete type=2 #8

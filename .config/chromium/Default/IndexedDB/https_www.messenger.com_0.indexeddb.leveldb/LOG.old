@@ -1,0 +1,41 @@
+2026/01/02-15:24:20.380 b0f Reusing MANIFEST /home/eivl/.config/chromium/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/02-15:24:20.380 b0f Recovering log #109
+2026/01/02-15:24:20.380 b0f Reusing old log /home/eivl/.config/chromium/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/000109.log 
+2026/01/02-15:24:28.216 b02 Level-0 table #119: started
+2026/01/02-15:24:28.237 b02 Level-0 table #119: 1596906 bytes OK
+2026/01/02-15:24:28.258 b02 Delete type=0 #109
+2026/01/02-15:24:28.268 b02 Compacting 1@1 + 6@2 files
+2026/01/02-15:24:28.299 b02 Generated table #120@1: 12254 keys, 2137625 bytes
+2026/01/02-15:24:28.339 b02 Generated table #121@1: 62565 keys, 2204659 bytes
+2026/01/02-15:24:28.400 b02 Generated table #122@1: 106398 keys, 2257960 bytes
+2026/01/02-15:24:28.461 b02 Generated table #123@1: 104793 keys, 2254312 bytes
+2026/01/02-15:24:28.480 b02 Generated table #124@1: 8465 keys, 2142131 bytes
+2026/01/02-15:24:28.502 b02 Generated table #125@1: 7160 keys, 1115092 bytes
+2026/01/02-15:24:28.502 b02 Compacted 1@1 + 6@2 files => 12111779 bytes
+2026/01/02-15:24:28.517 b02 compacted to: files[ 0 0 6 0 0 0 0 ]
+2026/01/02-15:24:28.517 b02 Delete type=2 #111
+2026/01/02-15:24:28.517 b02 Delete type=2 #112
+2026/01/02-15:24:28.517 b02 Delete type=2 #113
+2026/01/02-15:24:28.517 b02 Delete type=2 #114
+2026/01/02-15:24:28.517 b02 Delete type=2 #115
+2026/01/02-15:24:28.517 b02 Delete type=2 #116
+2026/01/02-15:24:28.517 b02 Delete type=2 #119
+2026/01/02-16:12:41.003 b02 Level-0 table #127: started
+2026/01/02-16:12:41.038 b02 Level-0 table #127: 1681014 bytes OK
+2026/01/02-16:12:41.053 b02 Delete type=0 #118
+2026/01/02-16:13:01.699 b00 Compacting 1@1 + 6@2 files
+2026/01/02-16:13:01.738 b00 Generated table #128@1: 12431 keys, 2138412 bytes
+2026/01/02-16:13:01.784 b00 Generated table #129@1: 57413 keys, 2197766 bytes
+2026/01/02-16:13:01.834 b00 Generated table #130@1: 106322 keys, 2255551 bytes
+2026/01/02-16:13:01.883 b00 Generated table #131@1: 106046 keys, 2256913 bytes
+2026/01/02-16:13:01.899 b00 Generated table #132@1: 19463 keys, 2143011 bytes
+2026/01/02-16:13:01.918 b00 Generated table #133@1: 7397 keys, 1731677 bytes
+2026/01/02-16:13:01.918 b00 Compacted 1@1 + 6@2 files => 12723330 bytes
+2026/01/02-16:13:01.934 b00 compacted to: files[ 0 0 6 0 0 0 0 ]
+2026/01/02-16:13:01.934 b00 Delete type=2 #120
+2026/01/02-16:13:01.934 b00 Delete type=2 #121
+2026/01/02-16:13:01.934 b00 Delete type=2 #122
+2026/01/02-16:13:01.934 b00 Delete type=2 #123
+2026/01/02-16:13:01.934 b00 Delete type=2 #124
+2026/01/02-16:13:01.934 b00 Delete type=2 #125
+2026/01/02-16:13:01.934 b00 Delete type=2 #127

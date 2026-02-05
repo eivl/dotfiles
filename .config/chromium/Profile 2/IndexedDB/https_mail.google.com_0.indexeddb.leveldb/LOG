@@ -1,0 +1,6 @@
+2025/11/14-14:15:45.001 9ae Reusing MANIFEST /home/eivl/.config/chromium/Profile 2/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/14-14:15:45.001 9ae Recovering log #3
+2025/11/14-14:15:45.001 9ae Reusing old log /home/eivl/.config/chromium/Profile 2/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2025/11/14-14:15:59.731 9ae Level-0 table #5: started
+2025/11/14-14:15:59.758 9ae Level-0 table #5: 3149067 bytes OK
+2025/11/14-14:15:59.786 9ae Delete type=0 #3

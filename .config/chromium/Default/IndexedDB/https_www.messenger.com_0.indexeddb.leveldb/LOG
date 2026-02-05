@@ -1,0 +1,22 @@
+2026/02/05-12:06:25.565 935 Reusing MANIFEST /home/eivl/.config/chromium/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/05-12:06:25.565 935 Recovering log #126
+2026/02/05-12:06:25.597 935 Reusing old log /home/eivl/.config/chromium/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/000126.log 
+2026/02/05-12:06:51.711 935 Level-0 table #136: started
+2026/02/05-12:06:51.735 935 Level-0 table #136: 1488765 bytes OK
+2026/02/05-12:06:51.747 935 Delete type=0 #126
+2026/02/05-12:06:51.773 942 Compacting 1@1 + 6@2 files
+2026/02/05-12:06:51.812 942 Generated table #137@1: 12787 keys, 2136662 bytes
+2026/02/05-12:06:51.859 942 Generated table #138@1: 52397 keys, 2192223 bytes
+2026/02/05-12:06:51.922 942 Generated table #139@1: 106937 keys, 2256286 bytes
+2026/02/05-12:06:51.990 942 Generated table #140@1: 105730 keys, 2256971 bytes
+2026/02/05-12:06:52.018 942 Generated table #141@1: 27355 keys, 2184028 bytes
+2026/02/05-12:06:52.037 942 Generated table #142@1: 7627 keys, 1938706 bytes
+2026/02/05-12:06:52.037 942 Compacted 1@1 + 6@2 files => 12964876 bytes
+2026/02/05-12:06:52.052 942 compacted to: files[ 0 0 6 0 0 0 0 ]
+2026/02/05-12:06:52.052 942 Delete type=2 #128
+2026/02/05-12:06:52.052 942 Delete type=2 #129
+2026/02/05-12:06:52.052 942 Delete type=2 #130
+2026/02/05-12:06:52.052 942 Delete type=2 #131
+2026/02/05-12:06:52.052 942 Delete type=2 #132
+2026/02/05-12:06:52.052 942 Delete type=2 #133
+2026/02/05-12:06:52.052 942 Delete type=2 #136

@@ -1,0 +1,115 @@
+[2025-11-14 10:30:00.958] [info]  No state version found, assuming empty state.
+[2025-11-14 10:30:01.102] [info]  [Process Isolation] Isolating process from debuggers and memory dumps
+[2025-11-14 10:30:01.140] [info]  Coredumps are disabled in renderer process
+[2025-11-14 10:30:01.852] [info]  [Native Messaging IPC] Clearing connected apps
+[2025-11-14 10:30:01.855] [info]  State version: 72
+[2025-11-14 10:30:02.074] [info]  Retrieving application id
+[2025-11-14 10:30:29.826] [info]  Retrieving application id
+[2025-11-14 10:30:29.843] [info]  Retrieving application id
+[2025-11-14 10:30:42.975] [info]  Retrieving application id
+[2025-11-14 10:30:45.068] [info]  [KeyService] Deriving master key took 141ms
+[2025-11-14 10:30:46.157] [info]  Retrieving application id
+[2025-11-14 10:31:22.500] [info]  [NAPI] [INFO] desktop_core::password::password: falling back to get legacy Bitwarden 5ae2a0c1-850a-4078-a93f-ad4d00eb3613_accessTokenKey
+[2025-11-14 10:31:24.152] [info]  Using SignalR for server notifications
+[2025-11-14 10:31:25.487] [info]  [NAPI] [INFO] desktop_core::password::password: OS keyring is_locked=false
+[2025-11-14 10:31:26.815] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2025-11-14 10:31:27.478] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2025-11-14 10:31:28.204] [info]  Successfully submitted two factor token
+[2025-11-14 10:31:30.539] [error] SSO login email not found.
+[2025-11-14 10:31:30.702] [info]  [CipherService]: decrypt complete took 58.60000000009313 [ [ 'Items', 204 ] ]
+[2025-11-14 10:31:32.510] [info]  [SearchService]: index complete took 1801.6999999999534 [ [ 'Items', 204 ] ]
+[2025-11-14 11:43:12.299] [info]  State version: 72
+[2025-11-14 11:43:12.302] [info]  Migrator MinVersionMigrator (to version 3) should migrate: false - up
+[2025-11-14 11:43:12.302] [info]  Migrator RemoveEverBeenUnlockedMigrator (to version 4) should migrate: false - up
+[2025-11-14 11:43:12.303] [info]  Migrator AddKeyTypeToOrgKeysMigrator (to version 5) should migrate: false - up
+[2025-11-14 11:43:12.303] [info]  Migrator RemoveLegacyEtmKeyMigrator (to version 6) should migrate: false - up
+[2025-11-14 11:43:12.303] [info]  Migrator MoveBiometricAutoPromptToAccount (to version 7) should migrate: false - up
+[2025-11-14 11:43:12.303] [info]  Migrator MoveStateVersionMigrator (to version 8) should migrate: false - up
+[2025-11-14 11:43:12.303] [info]  Migrator MoveBrowserSettingsToGlobal (to version 9) should migrate: false - up
+[2025-11-14 11:43:12.303] [info]  Migrator EverHadUserKeyMigrator (to version 10) should migrate: false - up
+[2025-11-14 11:43:12.303] [info]  Migrator OrganizationKeyMigrator (to version 11) should migrate: false - up
+[2025-11-14 11:43:12.303] [info]  Migrator MoveEnvironmentStateToProviders (to version 12) should migrate: false - up
+[2025-11-14 11:43:12.303] [info]  Migrator ProviderKeyMigrator (to version 13) should migrate: false - up
+[2025-11-14 11:43:12.304] [info]  Migrator MoveBiometricClientKeyHalfToStateProviders (to version 14) should migrate: false - up
+[2025-11-14 11:43:12.304] [info]  Migrator FolderMigrator (to version 15) should migrate: false - up
+[2025-11-14 11:43:12.304] [info]  Migrator LastSyncMigrator (to version 16) should migrate: false - up
+[2025-11-14 11:43:12.304] [info]  Migrator EnablePasskeysMigrator (to version 17) should migrate: false - up
+[2025-11-14 11:43:12.304] [info]  Migrator AutofillSettingsKeyMigrator (to version 18) should migrate: false - up
+[2025-11-14 11:43:12.304] [info]  Migrator RequirePasswordOnStartMigrator (to version 19) should migrate: false - up
+[2025-11-14 11:43:12.304] [info]  Migrator PrivateKeyMigrator (to version 20) should migrate: false - up
+[2025-11-14 11:43:12.304] [info]  Migrator CollectionMigrator (to version 21) should migrate: false - up
+[2025-11-14 11:43:12.304] [info]  Migrator CollapsedGroupingsMigrator (to version 22) should migrate: false - up
+[2025-11-14 11:43:12.304] [info]  Migrator MoveBiometricPromptsToStateProviders (to version 23) should migrate: false - up
+[2025-11-14 11:43:12.304] [info]  Migrator SmOnboardingTasksMigrator (to version 24) should migrate: false - up
+[2025-11-14 11:43:12.304] [info]  Migrator ClearClipboardDelayMigrator (to version 25) should migrate: false - up
+[2025-11-14 11:43:12.304] [info]  Migrator RevertLastSyncMigrator (to version 26) should migrate: false - up
+[2025-11-14 11:43:12.304] [info]  Migrator BadgeSettingsMigrator (to version 27) should migrate: false - up
+[2025-11-14 11:43:12.304] [info]  Migrator MoveBiometricUnlockToStateProviders (to version 28) should migrate: false - up
+[2025-11-14 11:43:12.304] [info]  Migrator UserNotificationSettingsKeyMigrator (to version 29) should migrate: false - up
+[2025-11-14 11:43:12.304] [info]  Migrator PolicyMigrator (to version 30) should migrate: false - up
+[2025-11-14 11:43:12.304] [info]  Migrator EnableContextMenuMigrator (to version 31) should migrate: false - up
+[2025-11-14 11:43:12.305] [info]  Migrator PreferredLanguageMigrator (to version 32) should migrate: false - up
+[2025-11-14 11:43:12.305] [info]  Migrator AppIdMigrator (to version 33) should migrate: false - up
+[2025-11-14 11:43:12.305] [info]  Migrator DomainSettingsMigrator (to version 34) should migrate: false - up
+[2025-11-14 11:43:12.305] [info]  Migrator MoveThemeToStateProviderMigrator (to version 35) should migrate: false - up
+[2025-11-14 11:43:12.305] [info]  Migrator VaultSettingsKeyMigrator (to version 36) should migrate: false - up
+[2025-11-14 11:43:12.305] [info]  Migrator AvatarColorMigrator (to version 37) should migrate: false - up
+[2025-11-14 11:43:12.305] [info]  Migrator TokenServiceStateProviderMigrator (to version 38) should migrate: false - up
+[2025-11-14 11:43:12.305] [info]  Migrator MoveBillingAccountProfileMigrator (to version 39) should migrate: false - up
+[2025-11-14 11:43:12.305] [info]  Migrator OrganizationMigrator (to version 40) should migrate: false - up
+[2025-11-14 11:43:12.305] [info]  Migrator EventCollectionMigrator (to version 41) should migrate: false - up
+[2025-11-14 11:43:12.305] [info]  Migrator EnableFaviconMigrator (to version 42) should migrate: false - up
+[2025-11-14 11:43:12.305] [info]  Migrator AutoConfirmFingerPrintsMigrator (to version 43) should migrate: false - up
+[2025-11-14 11:43:12.305] [info]  Migrator UserDecryptionOptionsMigrator (to version 44) should migrate: false - up
+[2025-11-14 11:43:12.305] [info]  Migrator MergeEnvironmentState (to version 45) should migrate: false - up
+[2025-11-14 11:43:12.305] [info]  Migrator DeleteBiometricPromptCancelledData (to version 46) should migrate: false - up
+[2025-11-14 11:43:12.305] [info]  Migrator MoveDesktopSettingsMigrator (to version 47) should migrate: false - up
+[2025-11-14 11:43:12.305] [info]  Migrator MoveDdgToStateProviderMigrator (to version 48) should migrate: false - up
+[2025-11-14 11:43:12.305] [info]  Migrator AccountServerConfigMigrator (to version 49) should migrate: false - up
+[2025-11-14 11:43:12.306] [info]  Migrator KeyConnectorMigrator (to version 50) should migrate: false - up
+[2025-11-14 11:43:12.306] [info]  Migrator RememberedEmailMigrator (to version 51) should migrate: false - up
+[2025-11-14 11:43:12.306] [info]  Migrator DeleteInstalledVersion (to version 52) should migrate: false - up
+[2025-11-14 11:43:12.306] [info]  Migrator DeviceTrustServiceStateProviderMigrator (to version 53) should migrate: false - up
+[2025-11-14 11:43:12.306] [info]  Migrator SendMigrator (to version 54) should migrate: false - up
+[2025-11-14 11:43:12.306] [info]  Migrator MoveMasterKeyStateToProviderMigrator (to version 55) should migrate: false - up
+[2025-11-14 11:43:12.306] [info]  Migrator AuthRequestMigrator (to version 56) should migrate: false - up
+[2025-11-14 11:43:12.306] [info]  Migrator CipherServiceMigrator (to version 57) should migrate: false - up
+[2025-11-14 11:43:12.306] [info]  Migrator RemoveRefreshTokenMigratedFlagMigrator (to version 58) should migrate: false - up
+[2025-11-14 11:43:12.306] [info]  Migrator KdfConfigMigrator (to version 59) should migrate: false - up
+[2025-11-14 11:43:12.306] [info]  Migrator KnownAccountsMigrator (to version 60) should migrate: false - up
+[2025-11-14 11:43:12.306] [info]  Migrator PinStateMigrator (to version 61) should migrate: false - up
+[2025-11-14 11:43:12.306] [info]  Migrator VaultTimeoutSettingsServiceStateProviderMigrator (to version 62) should migrate: false - up
+[2025-11-14 11:43:12.306] [info]  Migrator PasswordOptionsMigrator (to version 63) should migrate: false - up
+[2025-11-14 11:43:12.306] [info]  Migrator GeneratorHistoryMigrator (to version 64) should migrate: false - up
+[2025-11-14 11:43:12.306] [info]  Migrator ForwarderOptionsMigrator (to version 65) should migrate: false - up
+[2025-11-14 11:43:12.306] [info]  Migrator MoveFinalDesktopSettingsMigrator (to version 66) should migrate: false - up
+[2025-11-14 11:43:12.306] [info]  Migrator RemoveUnassignedItemsBannerDismissed (to version 67) should migrate: false - up
+[2025-11-14 11:43:12.306] [info]  Migrator MoveLastSyncDate (to version 68) should migrate: false - up
+[2025-11-14 11:43:12.307] [info]  Migrator MigrateIncorrectFolderKey (to version 69) should migrate: false - up
+[2025-11-14 11:43:12.307] [info]  Migrator RemoveAcBannersDismissed (to version 70) should migrate: false - up
+[2025-11-14 11:43:12.307] [info]  Migrator RemoveNewCustomizationOptionsCalloutDismissed (to version 71) should migrate: false - up
+[2025-11-14 11:43:12.307] [info]  Migrator RemoveAccountDeprovisioningBannerDismissed (to version 72) should migrate: false - up
+[2025-11-14 11:43:12.387] [info]  [Process Isolation] Isolating process from debuggers and memory dumps
+[2025-11-14 11:43:12.413] [info]  Coredumps are disabled in renderer process
+[2025-11-14 11:43:12.930] [info]  [Native Messaging IPC] Clearing connected apps
+[2025-11-14 11:43:12.931] [info]  State version: 72
+[2025-11-14 11:43:12.936] [info]  [NAPI] [INFO] desktop_core::password::password: falling back to get legacy Bitwarden_auto 5ae2a0c1-850a-4078-a93f-ad4d00eb3613_user_auto
+[2025-11-14 11:43:13.001] [info]  Retrieving application id
+[2025-11-14 11:43:13.446] [info]  Using SignalR for server notifications
+[2025-11-14 11:43:14.101] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2025-11-14 11:43:14.102] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2025-11-14 11:43:17.862] [info]  [KeyService] Deriving master key took 79ms
+[2025-11-14 11:43:17.876] [info]  Vault unlocked 2025-11-14T10:43:17.875Z
+[2025-11-14 11:43:17.898] [info]  [NAPI] [INFO] desktop_core::password::password: OS keyring is_locked=false
+[2025-11-14 11:43:18.199] [info]  [LockComponent] Sync took 277ms
+[2025-11-14 11:43:18.200] [info]  [LockComponent] Private key regeneration took 0ms
+[2025-11-14 11:43:18.294] [info]  [CipherService]: decrypt complete took 40.799999999813735 [ [ 'Items', 204 ] ]
+[2025-11-14 11:43:18.395] [info]  [SearchService]: index complete took 96.29999999981374 [ [ 'Items', 204 ] ]
+[2025-11-14 11:43:25.093] [info]  [SearchService]: index load took 14.200000000186265 undefined
+[2025-11-14 11:43:25.110] [info]  [SearchService]: search complete took 33.39999999944121 undefined
+[2025-11-14 11:43:25.712] [info]  [SearchService]: search complete took 16.299999999813735 undefined
+[2025-11-14 11:43:26.035] [info]  [SearchService]: search complete took 22.799999999813735 undefined
+[2025-11-14 11:43:26.572] [info]  [SearchService]: search complete took 14.699999999254942 undefined
+[2025-11-14 11:49:27.414] [error] [SignalR] Connection disconnected with error 'Error: Server timeout elapsed without receiving a message from the server.'.
+[2025-11-14 11:52:06.709] [info]  [SignalR] (WebSockets transport) There was an error with the transport.
+[2025-11-14 11:52:06.709] [error] [SignalR] Failed to start the connection: Error: WebSocket failed to connect. The connection could not be found on the server, either the endpoint may not be a SignalR endpoint, the connection ID is not present on the server, or there is a proxy blocking WebSockets. If you have multiple servers check that sticky sessions are enabled.

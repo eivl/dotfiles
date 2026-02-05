@@ -1,0 +1,6 @@
+2026/01/14-10:50:54.570 81d Creating DB /home/eivl/.config/chromium/Default/IndexedDB/https_m365.cloud.microsoft_0.indexeddb.leveldb since it was missing.
+2026/01/14-10:50:54.598 81d Reusing MANIFEST /home/eivl/.config/chromium/Default/IndexedDB/https_m365.cloud.microsoft_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/14-12:59:50.649 81f Level-0 table #5: started
+2026/01/14-12:59:50.661 81f Level-0 table #5: 121698 bytes OK
+2026/01/14-12:59:50.677 81f Delete type=0 #3
+2026/01/14-12:59:50.677 81f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

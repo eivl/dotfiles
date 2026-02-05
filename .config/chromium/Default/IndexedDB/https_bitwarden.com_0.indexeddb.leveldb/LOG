@@ -1,0 +1,6 @@
+2025/11/12-20:15:22.973 2a91 Creating DB /home/eivl/.config/chromium/Default/IndexedDB/https_bitwarden.com_0.indexeddb.leveldb since it was missing.
+2025/11/12-20:15:23.005 2a91 Reusing MANIFEST /home/eivl/.config/chromium/Default/IndexedDB/https_bitwarden.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/14-09:32:37.395 2a92 Level-0 table #5: started
+2025/11/14-09:32:37.402 2a92 Level-0 table #5: 853 bytes OK
+2025/11/14-09:32:37.415 2a92 Delete type=0 #3
+2025/11/14-09:32:37.416 2a92 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2026/01/14-11:17:43.944 81d Reusing MANIFEST /home/eivl/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/14-11:17:43.945 81d Recovering log #67
+2026/01/14-11:17:43.949 81d Reusing old log /home/eivl/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000067.log 
+2026/01/14-11:18:45.500 81f Level-0 table #73: started
+2026/01/14-11:18:45.511 81f Level-0 table #73: 367724 bytes OK
+2026/01/14-11:18:45.524 81f Delete type=0 #67
+2026/01/14-11:18:45.525 81f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/01/14-11:18:45.525 81f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x15\x02\x1f\x033\x1b~\xbee\xb5yB\x00\x03\x00\x00\x00\x00\x00\x00H@' @ 39981 : 1
+2026/01/14-11:18:45.525 81f Compacting 1@1 + 1@2 files
+2026/01/14-11:18:45.536 81f Generated table #74@1: 818 keys, 41438 bytes
+2026/01/14-11:18:45.536 81f Compacted 1@1 + 1@2 files => 41438 bytes
+2026/01/14-11:18:45.548 81f compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/14-11:18:45.549 81f Delete type=2 #70
+2026/01/14-11:18:45.549 81f Delete type=2 #73
+2026/01/14-11:18:45.549 81f Manual compaction at level-1 from '\x00\x15\x02\x1f\x033\x1b~\xbee\xb5yB\x00\x03\x00\x00\x00\x00\x00\x00H@' @ 39981 : 1 .. (end); will stop at (end)

@@ -1,0 +1,9 @@
+2025/12/25-17:01:26.991 e0f Reusing MANIFEST /home/eivl/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/25-17:01:26.992 e0f Recovering log #67
+2025/12/25-17:01:26.992 e0f Reusing old log /home/eivl/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000067.log 
+2025/12/25-17:01:27.010 e0f Compacting 1@1 + 1@2 files
+2025/12/25-17:01:27.020 e0f Generated table #70@1: 1335 keys, 55290 bytes
+2025/12/25-17:01:27.020 e0f Compacted 1@1 + 1@2 files => 55290 bytes
+2025/12/25-17:01:27.032 e0f compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/25-17:01:27.033 e0f Delete type=2 #65
+2025/12/25-17:01:27.033 e0f Delete type=2 #68

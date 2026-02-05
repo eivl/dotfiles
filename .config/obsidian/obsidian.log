@@ -1,0 +1,105 @@
+2025-11-07 14:57:11 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-11-07 14:57:11 Checking for update using Github
+2025-11-07 14:57:12 Success.
+2025-11-07 14:57:12 Latest version is 1.9.14
+2025-11-07 14:57:12 App is up to date.
+2026-01-14 10:05:35 Loading main app package /usr/lib/obsidian/obsidian.asar
+2026-01-14 10:05:35 Checking for update using Github
+2026-01-14 10:05:35 Success.
+2026-01-14 10:05:35 Latest version is 1.11.4
+2026-01-14 10:05:35 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.4/obsidian-1.11.4.asar.gz
+2026-01-14 10:05:36 Verifying hash & signature. Size= 8769455
+2026-01-14 10:05:36 Saving file
+2026-01-14 10:05:36 Update complete.
+2026-01-14 11:05:35 Checking for update using Github
+2026-01-14 11:05:35 Success.
+2026-01-14 11:05:35 Latest version is 1.11.4
+2026-01-14 11:05:35 An update is already downloaded.
+2026-01-14 12:05:35 Checking for update using Github
+2026-01-14 12:05:35 Success.
+2026-01-14 12:05:35 Latest version is 1.11.4
+2026-01-14 12:05:35 An update is already downloaded.
+2026-01-20 10:04:59 Loading updated app package /home/eivl/.config/obsidian/obsidian-1.11.4.asar
+2026-01-20 10:04:59 Checking for update using Github
+2026-01-20 10:04:59 Success.
+2026-01-20 10:04:59 Latest version is 1.11.4
+2026-01-20 10:04:59 App is up to date.
+2026-01-20 11:04:59 Checking for update using Github
+2026-01-20 11:04:59 Success.
+2026-01-20 11:04:59 Latest version is 1.11.4
+2026-01-20 11:04:59 App is up to date.
+2026-01-20 12:04:59 Checking for update using Github
+2026-01-20 12:04:59 Success.
+2026-01-20 12:04:59 Latest version is 1.11.4
+2026-01-20 12:04:59 App is up to date.
+2026-01-20 13:04:59 Checking for update using Github
+2026-01-20 13:04:59 Success.
+2026-01-20 13:04:59 Latest version is 1.11.4
+2026-01-20 13:04:59 App is up to date.
+2026-01-20 14:04:59 Checking for update using Github
+2026-01-20 14:04:59 Success.
+2026-01-20 14:04:59 Latest version is 1.11.4
+2026-01-20 14:04:59 App is up to date.
+2026-01-20 15:04:59 Checking for update using Github
+2026-01-20 15:04:59 Success.
+2026-01-20 15:04:59 Latest version is 1.11.4
+2026-01-20 15:04:59 App is up to date.
+2026-01-20 16:04:59 Checking for update using Github
+2026-01-20 16:04:59 Success.
+2026-01-20 16:04:59 Latest version is 1.11.4
+2026-01-20 16:04:59 App is up to date.
+2026-01-20 17:04:59 Checking for update using Github
+2026-01-20 17:04:59 Success.
+2026-01-20 17:04:59 Latest version is 1.11.4
+2026-01-20 17:04:59 App is up to date.
+2026-01-20 18:04:59 Checking for update using Github
+2026-01-20 18:04:59 Success.
+2026-01-20 18:04:59 Latest version is 1.11.4
+2026-01-20 18:04:59 App is up to date.
+2026-01-20 19:04:59 Checking for update using Github
+2026-01-20 19:05:00 Success.
+2026-01-20 19:05:00 Latest version is 1.11.5
+2026-01-20 19:05:00 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.5/obsidian-1.11.5.asar.gz
+2026-01-20 19:05:05 Verifying hash & signature. Size= 8771203
+2026-01-20 19:05:05 Saving file
+2026-01-20 19:05:05 Update complete.
+2026-01-20 20:04:59 Checking for update using Github
+2026-01-20 20:04:59 Success.
+2026-01-20 20:04:59 Latest version is 1.11.5
+2026-01-20 20:04:59 An update is already downloaded.
+2026-01-20 21:04:59 Checking for update using Github
+2026-01-20 21:05:00 Success.
+2026-01-20 21:05:00 Latest version is 1.11.5
+2026-01-20 21:05:00 An update is already downloaded.
+2026-01-20 22:04:59 Checking for update using Github
+2026-01-20 22:05:00 Success.
+2026-01-20 22:05:00 Latest version is 1.11.5
+2026-01-20 22:05:00 An update is already downloaded.
+2026-01-20 23:04:59 Checking for update using Github
+2026-01-20 23:05:00 Success.
+2026-01-20 23:05:00 Latest version is 1.11.5
+2026-01-20 23:05:00 An update is already downloaded.
+2026-01-21 00:04:59 Checking for update using Github
+2026-01-21 00:05:00 Success.
+2026-01-21 00:05:00 Latest version is 1.11.5
+2026-01-21 00:05:00 An update is already downloaded.
+2026-01-21 01:04:59 Checking for update using Github
+2026-01-21 01:05:00 Success.
+2026-01-21 01:05:00 Latest version is 1.11.5
+2026-01-21 01:05:00 An update is already downloaded.
+2026-01-21 02:04:59 Checking for update using Github
+2026-01-21 02:05:00 Success.
+2026-01-21 02:05:00 Latest version is 1.11.5
+2026-01-21 02:05:00 An update is already downloaded.
+2026-01-21 03:05:00 Checking for update using Github
+2026-01-21 03:05:00 Success.
+2026-01-21 03:05:00 Latest version is 1.11.5
+2026-01-21 03:05:00 An update is already downloaded.
+2026-01-21 04:05:00 Checking for update using Github
+2026-01-21 04:05:00 Success.
+2026-01-21 04:05:00 Latest version is 1.11.5
+2026-01-21 04:05:00 An update is already downloaded.
+2026-01-21 05:05:00 Checking for update using Github
+2026-01-21 05:05:00 Success.
+2026-01-21 05:05:00 Latest version is 1.11.5
+2026-01-21 05:05:00 An update is already downloaded.

@@ -1,0 +1,15 @@
+2026/01/24-22:04:45.826 5 Reusing MANIFEST /home/eivl/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2026/01/24-22:04:45.828 5 Recovering log #256
+2026/01/24-22:04:45.830 5 Reusing old log /home/eivl/.config/chromium/Default/Local Storage/leveldb/000256.log 
+2026/01/24-22:50:20.348 5 Level-0 table #260: started
+2026/01/24-22:50:20.372 5 Level-0 table #260: 27139 bytes OK
+2026/01/24-22:50:20.387 5 Delete type=0 #256
+2026/01/24-22:50:20.387 5 Compacting 4@0 + 1@1 files
+2026/01/24-22:50:20.432 5 Generated table #261@0: 915 keys, 1188589 bytes
+2026/01/24-22:50:20.432 5 Compacted 4@0 + 1@1 files => 1188589 bytes
+2026/01/24-22:50:20.445 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/24-22:50:20.446 5 Delete type=2 #250
+2026/01/24-22:50:20.446 5 Delete type=2 #253
+2026/01/24-22:50:20.446 5 Delete type=2 #255
+2026/01/24-22:50:20.447 5 Delete type=2 #257
+2026/01/24-22:50:20.447 5 Delete type=2 #260

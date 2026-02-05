@@ -1,0 +1,6 @@
+2026/02/05-12:06:22.633 5 Reusing MANIFEST /home/eivl/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2026/02/05-12:06:22.634 5 Recovering log #259
+2026/02/05-12:06:22.635 5 Reusing old log /home/eivl/.config/chromium/Default/Local Storage/leveldb/000259.log 
+2026/02/05-12:07:11.141 7 Level-0 table #264: started
+2026/02/05-12:07:11.163 7 Level-0 table #264: 21042 bytes OK
+2026/02/05-12:07:11.180 7 Delete type=0 #259
